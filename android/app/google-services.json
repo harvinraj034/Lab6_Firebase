@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601369184638",
+    "project_id": "welcome-brew-crew-d9311",
+    "storage_bucket": "welcome-brew-crew-d9311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601369184638:android:175c6b5167007532520b2f",
+        "android_client_info": {
+          "package_name": "com.thehello.welcomebrewcrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601369184638-sr3gm11ldsa7v4kcf0fjt7lt13bqv1vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8qSm0oPC5gzf1tzY0C8oraR_FLDAEeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601369184638-sr3gm11ldsa7v4kcf0fjt7lt13bqv1vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
